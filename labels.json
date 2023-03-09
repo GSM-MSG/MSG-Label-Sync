@@ -1,0 +1,77 @@
+[
+  {
+    "name": "0️⃣Priority: Critical",
+    "color": "8c001a",
+    "description": "우선순위 긴급"
+  },
+  {
+    "name": "1️⃣Priority: High",
+    "color": "FF0000",
+    "description": "우선순위 상"
+  },
+  {
+    "name": "3️⃣Priority: Low",
+    "color": "F9966b",
+    "description": "우선순위 하"
+  },
+  {
+    "name": "2️⃣Priority: Medium",
+    "color": "E77471",
+    "description": "우선순위 중"
+  },
+  {
+    "name": "⚙ Setting",
+    "color": "e3dede",
+    "description": "개발 환경 세팅"
+  },
+  {
+    "name": "✨ Feature",
+    "color": "a2eeef",
+    "description": "기능 개발"
+  },
+  {
+    "name": "🌏 Deploy",
+    "color": "C2E0C6",
+    "description": "배포 관련"
+  },
+  {
+    "name": "🐞 BugFix",
+    "color": "d73a4a",
+    "description": "버그 해결"
+  },
+  {
+    "name": "📃 Docs",
+    "color": "1D76DB",
+    "description": "문서 작성 및 수정 (README.md 등)"
+  },
+  {
+    "name": "📬 API",
+    "color": "D4C5F9",
+    "description": "서버 API 통신"
+  },
+  {
+    "name": "🔨 Refactor",
+    "color": "f29a4e",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "🙋‍♂️ Question",
+    "color": "9ED447",
+    "description": "여기 질문"
+  },
+  {
+    "name": "✅ Test",
+    "color": "ccffc4",
+    "description": "test 관련(xctest, rxtest, nimble ...color)"
+  },
+  {
+      "name": "⚡️ Simple",
+      "color": "4DFF58",
+      "description": "간단한 변경사항"
+  },
+  {
+      "name": "🪡 Want",
+      "color": "FEF2C0",
+      "description": "\"해줘.\""
+  }
+]
